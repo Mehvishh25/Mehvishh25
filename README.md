@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mehvishh25!
+# Hi there 👋, I'm Mehvish Waheed!
 
 ## 🔭 I’m currently working on:
 - Developing deep learning models for computer vision tasks
