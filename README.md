@@ -49,14 +49,6 @@
 
 ![Mehvishh25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehvishh25&layout=compact&theme=radical)
 
-### 👯 My GitHub Repositories
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mehvishh25&repo=your-repo-name&theme=radical)](https://github.com/Mehvishh25/your-repo-name)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mehvishh25&repo=another-repo-name&theme=radical)](https://github.com/Mehvishh25/another-repo-name)
-
----
-
 ### 💡 Current ML Projects
 - **Image-Based Calorie Estimator**: Estimating calorie content of food items using computer vision.
 - **Smart Traffic Monitoring & Violation Detection**: Real-time object detection in traffic monitoring systems.
