@@ -27,7 +27,7 @@
 
 ## 📫 How to reach me:
 - Email: mehvish.waheed.25@gmail.com
-- LinkedIn: [linkedin.com/in/mehvishh25](https://www.linkedin.com/in/mehvish-waheed-88b9b5277/)
+- LinkedIn: [linkedin.com/in/mehvishwaheed](https://www.linkedin.com/in/mehvish-waheed-88b9b5277/)
 
 ## 😄 Pronouns: she/her
 
