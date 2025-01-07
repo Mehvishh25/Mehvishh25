@@ -49,10 +49,6 @@
 
 ![Mehvishh25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehvishh25&layout=compact&theme=radical)
 
-### 💡 Current ML Projects
-- **Image-Based Calorie Estimator**: Estimating calorie content of food items using computer vision.
-- **Smart Traffic Monitoring & Violation Detection**: Real-time object detection in traffic monitoring systems.
-
 ---
 
 ### 📣 Get in Touch:
